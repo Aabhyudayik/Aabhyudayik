@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aabhyudayik and I'm a rookie learner from Nepal</p>
+<p align="left">My name is Aabhyudayik and I am an aspiring software developer from Nepal</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about problem-solving and creating<br>📚 I am currently learning javascript and python<br>🎯 
+<p align="left">✨ Passionate about problem-solving and creating<br>📚 I am currently learning javascript and python<br>🎯 I like reading and playing chess
 
 ###
 
